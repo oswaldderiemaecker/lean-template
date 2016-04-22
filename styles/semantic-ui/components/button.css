@@ -1704,14 +1704,14 @@
 .ui.basic.blue.buttons .button:hover,
 .ui.basic.blue.button:hover {
   background: transparent !important;
-  box-shadow: 0px 0px 0px 1px #1678c2 inset !important;
-  color: #1678c2 !important;
+  box-shadow: 0px 0px 0px 1px #85a71e inset !important;
+  color: #85a71e !important;
 }
 .ui.basic.blue.buttons .button:focus,
 .ui.basic.blue.button:focus {
   background: transparent !important;
   box-shadow: 0px 0px 0px 1px #0d71bb inset !important;
-  color: #1678c2 !important;
+  color: #85a71e !important;
 }
 .ui.basic.blue.buttons .active.button,
 .ui.basic.blue.active.button {
@@ -3072,7 +3072,7 @@
 }
 .ui.primary.buttons .button:hover,
 .ui.primary.button:hover {
-  background-color: #1678c2;
+  background-color: #85a71e;
   color: #ffffff;
   text-shadow: none;
 }
